@@ -7,12 +7,12 @@ This project is an interactive Sales Performance, Product, Regional, Customer an
 The objective of the project was to transform raw sales transaction data into an interactive business intelligence solution that enables stakeholders to understand revenue performance, profitability, product performance, regional performance, customer behaviour, order activity, shipping performance, and product returns.
 
 ## KPIs
-Total revenue 2.30M 
-Total profit $286.4K 
-12.47% profit margin.
-Unique Customers: 788
-Total Quantity: 23K
-Total Orders: 6K
+- Total revenue 2.30M 
+- Total profit $286.4K 
+- 12.47% profit margin
+- Unique Customers: 788
+- Total Quantity: 23K
+- Total Orders: 6K
 
 ## Key Insights
 
