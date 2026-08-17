@@ -19,7 +19,7 @@ Total Orders: 6K
 - The business generates approximately $2.30M.
 - The business generates $286.4K profit
 - The verall profit margin was 12.47%.
-- Technology generated the highest revenue and profit among the major categories.
+- Technology generated the highest revenue and profit among the major categories, with a revenue of 836.15k and contribute 32.36% profit to the business
 - Furniture generates relatively high revenue but comparatively low profit.
 - The West region recorded the highest sales and profit.
 - Consumer was the largest revenue-generating customer segment.
